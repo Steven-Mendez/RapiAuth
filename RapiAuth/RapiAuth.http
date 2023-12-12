@@ -1,0 +1,6 @@
+@RapiAuth_HostAddress = http://localhost:5116
+
+GET {{RapiAuth_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
